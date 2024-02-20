@@ -1,0 +1,1 @@
+export const Link = 'https://1820-140-213-5-198.ngrok-free.app';	

@@ -1,0 +1,36 @@
+Akun -- Akun
+
+1. Admin
+	email: figojulioez@gmail.com
+	password: password
+2. Petugas
+	email: rikobos@gmail.com
+	password: password
+
+	email: zico@gmail.com
+	password: password
+3. Peminjam
+	email: gantengfigo093@gmail.com
+	password: password
+
+	email: kanajorel@gmail.com
+	password: password
+
+Buku -- Buku
+	Judul: Habis Gelap Terbitlah Terang
+	Penulis: RA. Kartini
+	Tahun Terbit: 1911
+	Kategori: Novel
+	Harga Buku: 31000
+
+	Judul: Ensiklopedia Cilik Pancaindra
+	Penulis: Prof. Ahmad Supratman
+	Tahun Terbit: 2013
+	Kategori: Ensiklopedia
+	Harga Buku: 25000
+
+	Judul: Naruto Shippuden
+	Penulis: Masashi Kishimoto
+	Tahun Terbit: 1999
+	Kategori: Komik
+	Harga Buku: 45000
